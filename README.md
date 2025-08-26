@@ -54,4 +54,5 @@ Put your words here
 ## Citations
 
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+
 I used googled how to make a copy from one dir into the other dir and rename it and saw the AI box give me the answer
