@@ -56,3 +56,4 @@ Put your words here
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
 
 I googled how to make a copy from one dir into the other dir and rename it and saw the AI box give me the answer
+https://superuser.com/questions/368830/delete-multiple-files-on-powershell-command-line -- this helped me with deleting multiple things at once
