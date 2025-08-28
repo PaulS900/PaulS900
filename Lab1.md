@@ -6,7 +6,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](https://github.com/PaulS900)
+1. [PaulS900's GitHub Profile](https://github.com/PaulS900)
 
 ## Part 2 - Research
 
@@ -42,7 +42,7 @@ My Command Line Shell is: Windows Powershell
 6. Return to your user's home directory: cd ~
 7. Create a file named `test.txt`: New-Item test.txt
 8. Move the file named `test.txt` into `DirA`: mv test.txt C:\Users\crunc\DirA
-9. Contents of `test.txt`: nothing inside of test.txt
+9. Contents of `test.txt`: CEG2350 stuffs
 ```
 Put your words here
 ```
